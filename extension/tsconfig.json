@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"module": "esnext",
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"target": "es5",
+		"lib": ["es5", "es6", "dom"],
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"jsx": "react",
+		"strict": true,
+		"declaration": true,
+		"declarationMap": true,
+		"pretty": true
+	},
+	"include": [
+    	"src/**/*"
+  	]
+}
