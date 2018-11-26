@@ -1,5 +1,5 @@
 {
-  "name": "client2.0-cli",
+  "name": "@symphony/client2.0-cli",
   "version": "0.0.1",
   "description": "A command-line tool for creating client 2.0 package",
   "main": "index.js",
